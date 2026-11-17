@@ -3,4 +3,7 @@ __pycache__/
 .venv/
 .env
 dist/
-.angular/
+.angular/venv/
+__pycache__/
+venv/
+__pycache__/
